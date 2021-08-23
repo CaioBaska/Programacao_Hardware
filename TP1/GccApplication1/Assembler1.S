@@ -1,6 +1,6 @@
 #include <avr/io.h>
-.global papel
-	papel:
+.global ligarBomba	
+	ligarBomba:
 		.org	0x00							
 
 
